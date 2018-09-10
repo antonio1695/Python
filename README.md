@@ -1,2 +1,4 @@
 # Python
-Proyectos de python. 
+
+
+Repository with some of my projects done in Python. 
